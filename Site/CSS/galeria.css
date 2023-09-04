@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+}
+
+nav {
+    position: relative;
+    text-align: right;
+    background-color: black;
+    padding: 10px;
+    font-size: 2rem;
+    font-style: italic;
+    width: 100%;
+    right: 30px;
+}
+li {
+    color: white;
+    font-size: 2rem;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+}
+
+div.imagens {
+    height: 100vw;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(7, 1fr);
+    gap: 1rem;
+    margin: 5px;
+}
+
+.imagens img {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: black;
+}

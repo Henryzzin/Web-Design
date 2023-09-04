@@ -1,0 +1,52 @@
+[
+  {
+    "pergunta": "Quantas copas tem a Argentina?",
+    "correta": 2,
+    "alternativas": [1, 2, 3, 4, 5, 6, 7, "2,5", "1,5", "0,5"]
+  },
+  {
+    "pergunta": "Quem foi o vencedor da Copa do Mundo 2022?",
+    "correta": 7,
+    "alternativas": ["Alemanha", "Marrocos", "Brasil", "Holanda", "França", "Portugal", "Croácia", "Argentina", "Rússia", "Espanha"]
+  },
+  {
+    "pergunta": "Quem foi o vencedor da Bola de Ouro da Copa do Mundo 2022",
+    "correta": 1,
+    "alternativas": ["Neymar", "Messi", "Mbappé", "Modric", "Tite", "Suárez", "Gabigol", "Hakimi", "Van Dijk", "Salah"]
+  },
+  {
+    "pergunta": "Quem ficou em primeiro lugar no Grupo G?",
+    "correta": 3,
+    "alternativas": ["Suíca", "Argentina", "Holanda", "Brasil", "Marrocos", "Camarões", "Sérvia", "Afeganistão", "Portugal", "Croácia"]
+  },
+  {
+    "pergunta": "Em que fase o Brasil foi eliminado, especificamente, na Copa do Mundo 2022?",
+    "correta": 0,
+    "alternativas": ["Quartas de Final", "Semifinal", "Final", "Fase de Grupos", "Oitavas de Final", "Eliminatórias da Copa do Mundo", "Não Participou", "PlayOffs", "Mata-Mata", "Disputa de 3° Lugar"]
+  },
+  {
+    "pergunta": "Quantos gols o artilheiro da Copa do Mundo 2022 fez?",
+    "correta": 8,
+    "alternativas": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
+  },
+  {
+    "pergunta": "Quantos gols + assistências Lionel Messi fez?",
+    "correta": 5,
+    "alternativas": ["2", "3", "18", "7", "9", "10", "13", "4", "5", "8"]
+  },
+  {
+    "pergunta": "Quem foi o técnico da Seleção Brasileira na Copa do Mundo 2022?",
+    "correta": 2,
+    "alternativas": ["Zagallo", "Ronaldinho", "Tite", "Ancelloti", "Pelé", "Neymar", "Sampaoli", "Fenômeno", "Kaká", "Zidane"]
+  },
+  {
+    "pergunta": "Neymar jogou em quantos jogos da Copa do Mundo 2022?",
+    "correta": 2,
+    "alternativas": ["0", "1", "3", "2", "6", "4", "9", "7", "12", "5"]
+  },
+  {
+    "pergunta": "Qual seleção Messi representou?",
+    "correta": 9,
+    "alternativas": ["Espanha", "Bolívia", "França", "Marrocos", "Portugal", "Croácia", "Rússia", "Brasil", "Chile", "Argentina"]
+  }
+]
